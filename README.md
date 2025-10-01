@@ -37,9 +37,9 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Correctly casting values from [String: Any] to Int, Bool, or custom WordTheme.
-Understanding delegation between SettingsViewController and ViewController.
-Implementing the “Alien Wordle” mode so that the goal word regenerates at the right time.
+- Correctly casting values from [String: Any] to Int, Bool, or custom WordTheme.
+- Understanding delegation between SettingsViewController and ViewController.
+- Implementing the “Alien Wordle” mode so that the goal word regenerates at the right time.
 
 ## License
 
